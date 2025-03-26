@@ -6,10 +6,10 @@
 
 ### 💻 Estudos
 
-- Engenharia de Computação no CEFET-MG
+- Análise e Desenvolvimento de Sistemas em PUC-PR
 - Estudos independentes sobre Frontend
 
-### 🌱 Planos para 2023
+### 🌱 Planos para 2025
 
 - Adicionar uma ou mais páginas/projetos desenvolvidos por mim ou praticados em sites de aprendizagem
 - Colocar em prática os projetos que ficaram no esboço
